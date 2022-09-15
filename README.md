@@ -1,5 +1,4 @@
 # PythonTest
-Python Test
 
 - Find and fix the errors in the following program
 - Refactor the program to make it more modular (using a Pythonic style, e.g. numpy)
